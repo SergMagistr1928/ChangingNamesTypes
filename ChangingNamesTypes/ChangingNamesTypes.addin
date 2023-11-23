@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+    <AddIn Type ="Command">
+        <Assembly>"C:\ChangingNamesTypes\ChangingNamesTypes.dll"</Assembly>
+        <AddInId>44109cb3-2280-452a-a825-2868838c13b7</AddInId>
+        <FullClassName>ChangingNamesTypes.Main</FullClassName>
+        <VendorId>ADSK</VendorId>
+        <Text>Изменение имени типоразмеров </Text>
+    </AddIn>
+</RevitAddIns>
+
+
